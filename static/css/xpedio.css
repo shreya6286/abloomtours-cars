@@ -1,0 +1,364 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&family=Roboto+Condensed:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&family=Kalam:wght@300;400&family=Questrial&family=Sacramento&family=Secular+One&family=Tangerine:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Caveat&family=Julius+Sans+One&family=Raleway:wght@200;300;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Devanagari:wght@500&family=Noto+Sans+Tamil:wght@500&family=Questrial&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Encode+Sans:wght@800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rajdhani:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;600;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@900&display=swap');
+
+
+body, html {
+ 	padding: 0;
+ 	margin: 0;
+ 	font-family: 'Roboto', 'Open sans';
+ 	font-size: 13px;
+ 	overflow-x: hidden;
+ 	height: 100%;
+}
+
+.bold {
+	font-weight: bold;
+}
+
+.roboto-c {
+    font-family: 'Roboto Condensed';
+    font-weight: 900;
+}
+
+.roboto {
+    font-family: 'Roboto';
+    font-weight: 900;
+}
+
+.gray-bg {
+    background-color: #f5f5f5;
+}
+
+.white-bg {
+    background-color: #fff;
+}
+
+.font-14 {
+    font-size: 14px;
+}
+
+.hrow {
+    display: flex;
+}
+
+.form-label {
+    margin-top: 10px;
+}
+
+th {
+    background-color: #f5f5f5 !important;
+    font-family: 'Roboto condensed';
+    font-weight: normal;
+}
+
+button {
+    width: 100px;
+}
+
+hr {
+	padding: 0;
+	margin: 2px;
+}
+
+.xpedio-hr {
+	border: 1px solid #c70039;
+}
+
+.mont {
+	font-family: 'Montserrat';
+}
+
+.poppins-200 {
+	font-family: 'Poppins';
+	font-weight: 200;
+}
+
+.btn:focus,.btn:active:focus,.btn.active:focus,
+.btn.focus,.btn:active.focus,.btn.active.focus {
+    outline: none !important;
+}
+
+.form-group label {
+	font-family: 'Roboto condensed';
+	font-size: 13px;
+	color: #000;
+}
+
+.form-control:focus {
+    -webkit-box-shadow: none;
+    box-shadow: none !important;
+    border-color: #a0a0a0 !important;
+    outline: -webkit-focus-ring-color auto 0px;
+}
+
+input {
+    padding: 4px !important;
+    max-height: 25px !important;
+}
+
+.input-group button {
+   max-height: 25px !important;  
+   max-width: 30px !important;
+}
+
+.text-10 {
+	font-size: 10px;
+	color: #000;
+}
+
+.text-11 {
+	font-size: 11px;
+	color: #000;
+}
+
+.text-12 {
+	font-size: 12px;
+	color: #000;
+}
+
+.text-14 {
+	font-size: 14px;
+	color: #000 !important;
+}
+
+.dialog-header{
+    background-color: #273746;
+    padding: 20px 20px;
+}
+
+.header-18 {
+	font-family: 'Roboto condensed';
+	font-size: 18px;
+}
+
+.header-20 {
+	font-family: 'Roboto condensed';
+	font-size: 20px;
+}
+
+.header-24 {
+	font-family: 'Roboto condensed';
+	font-size: 24px;
+}
+
+a {
+	text-decoration: none !important;
+}
+
+.lb-alert {
+	color: #c70039;
+}
+
+.lb-success {
+	color: cadetblue;
+}
+
+.right {
+    text-align: right;
+}
+
+.center {
+    text-align: center;
+}
+
+.btn-primary {
+	background-color: #2980B9 !important;
+	color: #fff;
+}
+
+.alarm {
+	color: #c70039;
+}
+
+.success {
+	color: #76D7C4;
+}
+
+.alarm-bg {
+	background-color: #c70039;
+	color: #fff;
+}
+
+.success-bg {
+	background-color: #76D7C4;
+	color: #fff;
+}
+
+.full-box {
+	display: grid;
+	position: fixed;
+	grid-template-columns: auto;
+	top: 35px;
+	left: 0;
+	right: 0;
+	bottom: calc(100vh-35px);
+	justify-content: right;
+	align-items: center;
+	width: 100%;
+}
+
+.vscroll {
+	overflow-y: scroll;
+	overflow-x: hidden;
+	max-height: 100%;
+}
+
+.div-center {
+	display: grid;
+	grid-template-columns: auto;
+	justify-content: center;
+	align-items: center;
+	width: 100%;
+	height: calc(100vh - 35px);
+}
+
+.left-panel {
+	height: calc(100vh - 35px);
+}
+
+.panel {
+	display: grid;
+	position: fixed;
+	grid-template-columns: auto;
+	width: 100%;
+	top: 35px;
+	left: 0;
+	right: 0px;
+	height: calc(100vh - 35px);
+	background-color: #fff;
+}
+
+.panel-header-dark {
+	background-color: #273746;
+    padding: 10px;
+}
+
+.header-18-white {
+	font-family: 'Roboto condensed';
+	color: #fff;
+	font-size: 18px;
+}
+
+.bar-gray {
+	background-color: #D6DBDF;
+}
+
+.bar-green {
+	background-color: #D5F5E3;
+	padding: 5px;
+}
+
+.indexer {
+	background-color: #273746;
+	text-align: center;
+	padding-top: 4px;
+}
+
+.m-35 {
+	margin-top: 35px;
+} 
+
+.m-40 {
+	margin-top: 40px;
+} 
+
+.m-50 {
+	margin-top: 50px;
+}
+
+.m-80 {
+	margin-top: 80px;
+}
+
+.m-100 {
+	margin-top: 100px;
+} 
+
+.border-all {
+	border: 1px solid lightgray;
+}
+
+.border-t {
+	border-top: 1px solid lightgray;
+}
+
+.border-l {
+	border-left: 1px solid lightgray;
+}
+
+.border-r {
+	border-right: 1px solid lightgray;
+}
+
+.border-b {
+	border-bottom: 1px solid lightgray;
+}
+
+.border-tb, .border-bt {
+	border-top: 1px solid lightgray;
+	border-bottom: 1px solid lightgray;
+}
+
+.border-rb, .border-br {
+	border-right: 1px solid lightgray;
+	border-bottom: 1px solid lightgray;
+}
+
+.border-tr, .border-rt {
+	border-top: 1px solid lightgray;
+	border-right: 1px solid lightgray;
+}
+
+.border-bl, .border-lb {
+	border-bottom: 1px solid lightgray;
+	border-left: 1px solid lightgray;
+}
+
+.border-tl, .border-lt {
+	border-top: 1px solid lightgray;
+	border-left: 1px solid lightgray;
+}
+
+.border-rl, .border-lr {
+	border-right: 1px solid lightgray;
+	border-left: 1px solid lightgray;
+}
+
+.border-tbl, .border-tlb, .border-ltb, .border-lbt, .border-btl, .border-blt {
+	border-top: 1px solid lightgray;
+	border-left: 1px solid lightgray;
+	border-bottom: 1px solid lightgray;
+}
+
+.border-rbl, .border-rlb, .border-lrb, .border-lbr, .border-brl, .border-blr {
+	border-right: 1px solid lightgray;
+	border-left: 1px solid lightgray;
+	border-bottom: 1px solid lightgray;
+}
+
+.bottom-column  > div
+{
+ display: inline-block;
+ vertical-align: bottom;
+ float: none;
+ margin: -2px;
+}
+
+.border-trl, .border-tlr, .border-ltr, .border-lrt, .border-rtl, .border-rlt {
+	border-top: 1px solid lightgray;
+	border-left: 1px solid lightgray;
+	border-right: 1px solid lightgray;
+}
+
+.border-trb, .border-rtb, .border-trb, .border-tbr, .border-brt, .border-btr, .border-rbt {
+	border-right: 1px solid lightgray;
+	border-top: 1px solid lightgray;
+	border-bottom: 1px solid lightgray;
+}

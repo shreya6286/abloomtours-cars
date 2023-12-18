@@ -1,0 +1,607 @@
+{
+    "page": [
+        {
+            "child": [
+                {
+                    "child": [
+                        {
+                            "child": [
+                                {
+                                    "child": [
+                                    ],
+                                    "control_id": "Image",
+                                    "name": "Image",
+                                    "parent_id": "Link",
+                                    "parent_index": "3",
+                                    "properties": {
+                                        "Class": {
+                                            "Dialog": "",
+                                            "Value": ""
+                                        },
+                                        "Columns": {
+                                            "Dialog": "",
+                                            "Value": "12"
+                                        },
+                                        "Control-name": {
+                                            "Dialog": "",
+                                            "Value": ""
+                                        },
+                                        "Custom": {
+                                            "Dialog": "TextArea",
+                                            "Value": ""
+                                        },
+                                        "Exclude": {
+                                            "Dialog": "YesNo",
+                                            "Value": "No"
+                                        },
+                                        "ID": {
+                                            "Dialog": "",
+                                            "Value": ""
+                                        },
+                                        "Image-source": {
+                                            "Dialog": "File",
+                                            "Value": "{ logo }"
+                                        },
+                                        "Name": {
+                                            "Dialog": "",
+                                            "Value": ""
+                                        },
+                                        "Round": {
+                                            "Dialog": "YesNo",
+                                            "Value": "No"
+                                        },
+                                        "Style": {
+                                            "Dialog": "Style",
+                                            "Value": "height: 50px"
+                                        }
+                                    },
+                                    "styling": "Bootstrap"
+                                }
+                            ],
+                            "control_id": "Link",
+                            "name": "Link",
+                            "parent_id": "Row",
+                            "parent_index": "2",
+                            "properties": {
+                                "Class": {
+                                    "Dialog": "",
+                                    "Value": "pt-2"
+                                },
+                                "Click-event": {
+                                    "Dialog": "",
+                                    "Value": ""
+                                },
+                                "Close-dialog": {
+                                    "Dialog": "yesno",
+                                    "Value": ""
+                                },
+                                "Color": {
+                                    "Dialog": "Color",
+                                    "Value": ""
+                                },
+                                "Columns": {
+                                    "Dialog": "",
+                                    "Value": "3"
+                                },
+                                "Control-name": {
+                                    "Dialog": "",
+                                    "Value": ""
+                                },
+                                "Custom": {
+                                    "Dialog": "TextArea",
+                                    "Value": ""
+                                },
+                                "Display-label": {
+                                    "Dialog": "",
+                                    "Value": ""
+                                },
+                                "Exclude": {
+                                    "Dialog": "YesNo",
+                                    "Value": "No"
+                                },
+                                "Fa-icon": {
+                                    "Dialog": "",
+                                    "Value": ""
+                                },
+                                "ID": {
+                                    "Dialog": "",
+                                    "Value": ""
+                                },
+                                "Icon": {
+                                    "Dialog": "",
+                                    "Value": "{ logo }"
+                                },
+                                "Icon-size": {
+                                    "Dialog": "",
+                                    "Value": ""
+                                },
+                                "Is-react-link": {
+                                    "Dialog": "YesNo",
+                                    "Value": "Yes"
+                                },
+                                "Margin": {
+                                    "Dialog": "Margin",
+                                    "Value": ""
+                                },
+                                "Name": {
+                                    "Dialog": "",
+                                    "Value": ""
+                                },
+                                "Navigation-url": {
+                                    "Dialog": "",
+                                    "Value": "#"
+                                },
+                                "Open-dialog-id": {
+                                    "Dialog": "",
+                                    "Value": ""
+                                },
+                                "Reference-url": {
+                                    "Dialog": "",
+                                    "Value": "#"
+                                },
+                                "Style": {
+                                    "Dialog": "Style",
+                                    "Value": ""
+                                },
+                                "Table-header": {
+                                    "Dialog": "",
+                                    "Value": ""
+                                },
+                                "URL-data": {
+                                    "Dialog": "",
+                                    "Value": ""
+                                },
+                                "URL-parameter": {
+                                    "Dialog": "",
+                                    "Value": ""
+                                }
+                            },
+                            "styling": "Bootstrap"
+                        },
+                        {
+                            "child": [
+                            ],
+                            "control_id": "Column",
+                            "name": "Column",
+                            "parent_id": "Row",
+                            "parent_index": "2",
+                            "properties": {
+                                "Class": {
+                                    "Dialog": "",
+                                    "Value": ""
+                                },
+                                "Color": {
+                                    "Dialog": "Color",
+                                    "Value": ""
+                                },
+                                "Columns": {
+                                    "Dialog": "",
+                                    "Value": "5"
+                                },
+                                "Control-name": {
+                                    "Dialog": "",
+                                    "Value": ""
+                                },
+                                "Custom": {
+                                    "Dialog": "TextArea",
+                                    "Value": ""
+                                },
+                                "Exclude": {
+                                    "Dialog": "YesNo",
+                                    "Value": "No"
+                                },
+                                "ID": {
+                                    "Dialog": "",
+                                    "Value": ""
+                                },
+                                "Loop-source": {
+                                    "Dialog": "",
+                                    "Value": ""
+                                },
+                                "Loop-variable": {
+                                    "Dialog": "",
+                                    "Value": ""
+                                },
+                                "Margin": {
+                                    "Dialog": "Margin",
+                                    "Value": ""
+                                },
+                                "Name": {
+                                    "Dialog": "",
+                                    "Value": ""
+                                },
+                                "Style": {
+                                    "Dialog": "Style",
+                                    "Value": ""
+                                }
+                            },
+                            "styling": "Bootstrap"
+                        },
+                        {
+                            "child": [
+                                {
+                                    "child": [
+                                    ],
+                                    "control_id": "Button",
+                                    "name": "Button",
+                                    "parent_id": "Column",
+                                    "parent_index": "3",
+                                    "properties": {
+                                        "Class": {
+                                            "Dialog": "",
+                                            "Value": "btn btn-sm btn-light"
+                                        },
+                                        "Click-event": {
+                                            "Dialog": "",
+                                            "Value": ""
+                                        },
+                                        "Close-dialog": {
+                                            "Dialog": "",
+                                            "Value": ""
+                                        },
+                                        "Columns": {
+                                            "Dialog": "",
+                                            "Value": "12"
+                                        },
+                                        "Condition": {
+                                            "Dialog": "TextArea",
+                                            "Value": ""
+                                        },
+                                        "Control-name": {
+                                            "Dialog": "",
+                                            "Value": ""
+                                        },
+                                        "Custom": {
+                                            "Dialog": "TextArea",
+                                            "Value": ""
+                                        },
+                                        "Display-label": {
+                                            "Dialog": "",
+                                            "Value": "Register"
+                                        },
+                                        "Exclude": {
+                                            "Dialog": "YesNo",
+                                            "Value": "No"
+                                        },
+                                        "Fa-icon": {
+                                            "Dialog": "",
+                                            "Value": ""
+                                        },
+                                        "ID": {
+                                            "Dialog": "",
+                                            "Value": ""
+                                        },
+                                        "Icon": {
+                                            "Dialog": "",
+                                            "Value": ""
+                                        },
+                                        "Name": {
+                                            "Dialog": "",
+                                            "Value": ""
+                                        },
+                                        "Navigation-url": {
+                                            "Dialog": "",
+                                            "Value": ""
+                                        },
+                                        "Open-dialog-id": {
+                                            "Dialog": "",
+                                            "Value": ""
+                                        },
+                                        "Style": {
+                                            "Dialog": "Style",
+                                            "Value": ""
+                                        },
+                                        "Table-header": {
+                                            "Dialog": "",
+                                            "Value": ""
+                                        }
+                                    },
+                                    "styling": "Bootstrap"
+                                },
+                                {
+                                    "child": [
+                                    ],
+                                    "control_id": "Button",
+                                    "name": "Button",
+                                    "parent_id": "Column",
+                                    "parent_index": "3",
+                                    "properties": {
+                                        "Class": {
+                                            "Dialog": "",
+                                            "Value": "btn btn-sm btn-light"
+                                        },
+                                        "Click-event": {
+                                            "Dialog": "",
+                                            "Value": ""
+                                        },
+                                        "Close-dialog": {
+                                            "Dialog": "",
+                                            "Value": ""
+                                        },
+                                        "Columns": {
+                                            "Dialog": "",
+                                            "Value": "12"
+                                        },
+                                        "Condition": {
+                                            "Dialog": "TextArea",
+                                            "Value": ""
+                                        },
+                                        "Control-name": {
+                                            "Dialog": "",
+                                            "Value": ""
+                                        },
+                                        "Custom": {
+                                            "Dialog": "TextArea",
+                                            "Value": ""
+                                        },
+                                        "Display-label": {
+                                            "Dialog": "",
+                                            "Value": "Login"
+                                        },
+                                        "Exclude": {
+                                            "Dialog": "YesNo",
+                                            "Value": "No"
+                                        },
+                                        "Fa-icon": {
+                                            "Dialog": "",
+                                            "Value": ""
+                                        },
+                                        "ID": {
+                                            "Dialog": "",
+                                            "Value": ""
+                                        },
+                                        "Icon": {
+                                            "Dialog": "",
+                                            "Value": ""
+                                        },
+                                        "Name": {
+                                            "Dialog": "",
+                                            "Value": ""
+                                        },
+                                        "Navigation-url": {
+                                            "Dialog": "",
+                                            "Value": ""
+                                        },
+                                        "Open-dialog-id": {
+                                            "Dialog": "",
+                                            "Value": ""
+                                        },
+                                        "Style": {
+                                            "Dialog": "Style",
+                                            "Value": ""
+                                        },
+                                        "Table-header": {
+                                            "Dialog": "",
+                                            "Value": ""
+                                        }
+                                    },
+                                    "styling": "Bootstrap"
+                                }
+                            ],
+                            "control_id": "Column",
+                            "name": "Column",
+                            "parent_id": "Row",
+                            "parent_index": "2",
+                            "properties": {
+                                "Class": {
+                                    "Dialog": "",
+                                    "Value": "right pt-2"
+                                },
+                                "Color": {
+                                    "Dialog": "Color",
+                                    "Value": ""
+                                },
+                                "Columns": {
+                                    "Dialog": "",
+                                    "Value": "4"
+                                },
+                                "Control-name": {
+                                    "Dialog": "",
+                                    "Value": ""
+                                },
+                                "Custom": {
+                                    "Dialog": "TextArea",
+                                    "Value": ""
+                                },
+                                "Exclude": {
+                                    "Dialog": "YesNo",
+                                    "Value": "No"
+                                },
+                                "ID": {
+                                    "Dialog": "",
+                                    "Value": ""
+                                },
+                                "Loop-source": {
+                                    "Dialog": "",
+                                    "Value": ""
+                                },
+                                "Loop-variable": {
+                                    "Dialog": "",
+                                    "Value": ""
+                                },
+                                "Margin": {
+                                    "Dialog": "Margin",
+                                    "Value": ""
+                                },
+                                "Name": {
+                                    "Dialog": "",
+                                    "Value": ""
+                                },
+                                "Style": {
+                                    "Dialog": "Style",
+                                    "Value": ""
+                                }
+                            },
+                            "styling": "Bootstrap"
+                        }
+                    ],
+                    "control_id": "Row",
+                    "name": "Row",
+                    "parent_id": "Container",
+                    "parent_index": "1",
+                    "properties": {
+                        "Class": {
+                            "Dialog": "",
+                            "Value": "row topbar"
+                        },
+                        "Color": {
+                            "Dialog": "Color",
+                            "Value": ""
+                        },
+                        "Colors": {
+                            "Dialog": "",
+                            "Value": ""
+                        },
+                        "Control-name": {
+                            "Dialog": "",
+                            "Value": ""
+                        },
+                        "Custom": {
+                            "Dialog": "TextArea",
+                            "Value": ""
+                        },
+                        "Exclude": {
+                            "Dialog": "YesNo",
+                            "Value": "No"
+                        },
+                        "ID": {
+                            "Dialog": "",
+                            "Value": ""
+                        },
+                        "Items-per-page": {
+                            "Dialog": "",
+                            "Value": ""
+                        },
+                        "Loop-source": {
+                            "Dialog": "",
+                            "Value": ""
+                        },
+                        "Loop-variable": {
+                            "Dialog": "",
+                            "Value": ""
+                        },
+                        "Margin": {
+                            "Dialog": "Margin",
+                            "Value": ""
+                        },
+                        "Name": {
+                            "Dialog": "",
+                            "Value": ""
+                        },
+                        "Pagination": {
+                            "Dialog": "",
+                            "Value": "No"
+                        },
+                        "Pagination-class": {
+                            "Dialog": "",
+                            "Value": ""
+                        },
+                        "Pagination-style": {
+                            "Dialog": "",
+                            "Value": ""
+                        },
+                        "Style": {
+                            "Dialog": "Style",
+                            "Value": ""
+                        }
+                    },
+                    "styling": "Bootstrap"
+                },
+                {
+                    "child": [
+                    ],
+                    "control_id": "PageContainer",
+                    "name": "PageContainer",
+                    "parent_id": "Container",
+                    "parent_index": "1",
+                    "properties": {
+                        "Activate-event": {
+                            "Dialog": "",
+                            "Value": ""
+                        },
+                        "Class": {
+                            "Dialog": "",
+                            "Value": ""
+                        },
+                        "Color": {
+                            "Dialog": "Color",
+                            "Value": ""
+                        },
+                        "Control-name": {
+                            "Dialog": "",
+                            "Value": ""
+                        },
+                        "Custom": {
+                            "Dialog": "TextArea",
+                            "Value": ""
+                        },
+                        "Exclude": {
+                            "Dialog": "YesNo",
+                            "Value": "No"
+                        },
+                        "ID": {
+                            "Dialog": "",
+                            "Value": ""
+                        },
+                        "Margin": {
+                            "Dialog": "Margin",
+                            "Value": ""
+                        },
+                        "Name": {
+                            "Dialog": "",
+                            "Value": ""
+                        },
+                        "Style": {
+                            "Dialog": "Style",
+                            "Value": ""
+                        }
+                    },
+                    "styling": "Bootstrap"
+                }
+            ],
+            "control_id": "Container",
+            "name": "Container",
+            "parent_id": "",
+            "parent_index": "0",
+            "properties": {
+                "Class": {
+                    "Dialog": "",
+                    "Value": "container-fluid p-0"
+                },
+                "Color": {
+                    "Dialog": "Color",
+                    "Value": ""
+                },
+                "Control-name": {
+                    "Dialog": "",
+                    "Value": ""
+                },
+                "Custom": {
+                    "Dialog": "TextArea",
+                    "Value": ""
+                },
+                "Exclude": {
+                    "Dialog": "YesNo",
+                    "Value": "No"
+                },
+                "ID": {
+                    "Dialog": "",
+                    "Value": ""
+                },
+                "Margin": {
+                    "Dialog": "Margin",
+                    "Value": ""
+                },
+                "Name": {
+                    "Dialog": "",
+                    "Value": ""
+                },
+                "Style": {
+                    "Dialog": "Style",
+                    "Value": ""
+                }
+            },
+            "styling": "Bootstrap"
+        }
+    ]
+}

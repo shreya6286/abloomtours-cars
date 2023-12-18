@@ -1,0 +1,2048 @@
+{
+    "page": [
+        {
+            "child": [
+                {
+                    "child": [
+                        {
+                            "child": [
+                            ],
+                            "control_id": "HeaderText",
+                            "name": "HeaderText",
+                            "parent_id": "Div",
+                            "parent_index": "2",
+                            "properties": {
+                                "Class": {
+                                    "Dialog": "",
+                                    "Value": "header1"
+                                },
+                                "Columns": {
+                                    "Dialog": "",
+                                    "Value": "12"
+                                },
+                                "Control-name": {
+                                    "Dialog": "",
+                                    "Value": ""
+                                },
+                                "Custom": {
+                                    "Dialog": "TextArea",
+                                    "Value": ""
+                                },
+                                "Display-label": {
+                                    "Dialog": "",
+                                    "Value": "Perfect car for your trip"
+                                },
+                                "Exclude": {
+                                    "Dialog": "YesNo",
+                                    "Value": "No"
+                                },
+                                "Header-size": {
+                                    "Dialog": "HeaderSize",
+                                    "Value": "H1"
+                                },
+                                "ID": {
+                                    "Dialog": "",
+                                    "Value": ""
+                                },
+                                "Name": {
+                                    "Dialog": "",
+                                    "Value": ""
+                                },
+                                "Style": {
+                                    "Dialog": "Style",
+                                    "Value": ""
+                                }
+                            },
+                            "styling": "Bootstrap"
+                        },
+                        {
+                            "child": [
+                            ],
+                            "control_id": "Label",
+                            "name": "Label",
+                            "parent_id": "Div",
+                            "parent_index": "2",
+                            "properties": {
+                                "Class": {
+                                    "Dialog": "",
+                                    "Value": "header2"
+                                },
+                                "Color": {
+                                    "Dialog": "Color",
+                                    "Value": ""
+                                },
+                                "Columns": {
+                                    "Dialog": "",
+                                    "Value": "12"
+                                },
+                                "Control-name": {
+                                    "Dialog": "",
+                                    "Value": ""
+                                },
+                                "Custom": {
+                                    "Dialog": "TextArea",
+                                    "Value": ""
+                                },
+                                "Display-label": {
+                                    "Dialog": "",
+                                    "Value": "Every trip comes with exiciting offers. Book a trip and avail the offers "
+                                },
+                                "Exclude": {
+                                    "Dialog": "YesNo",
+                                    "Value": "No"
+                                },
+                                "For-control-id": {
+                                    "Dialog": "",
+                                    "Value": ""
+                                },
+                                "ID": {
+                                    "Dialog": "",
+                                    "Value": ""
+                                },
+                                "Margin": {
+                                    "Dialog": "Margin",
+                                    "Value": ""
+                                },
+                                "Name": {
+                                    "Dialog": "",
+                                    "Value": ""
+                                },
+                                "Style": {
+                                    "Dialog": "Style",
+                                    "Value": "color: #fff"
+                                },
+                                "Table-header": {
+                                    "Dialog": "",
+                                    "Value": ""
+                                }
+                            },
+                            "styling": "Bootstrap"
+                        },
+                        {
+                            "child": [
+                                {
+                                    "child": [
+                                    ],
+                                    "control_id": "Button",
+                                    "name": "Button",
+                                    "parent_id": "Row",
+                                    "parent_index": "3",
+                                    "properties": {
+                                        "Class": {
+                                            "Dialog": "",
+                                            "Value": "btn btn-success offers-btn"
+                                        },
+                                        "Click-event": {
+                                            "Dialog": "",
+                                            "Value": ""
+                                        },
+                                        "Close-dialog": {
+                                            "Dialog": "",
+                                            "Value": ""
+                                        },
+                                        "Columns": {
+                                            "Dialog": "",
+                                            "Value": "12"
+                                        },
+                                        "Condition": {
+                                            "Dialog": "TextArea",
+                                            "Value": ""
+                                        },
+                                        "Control-name": {
+                                            "Dialog": "",
+                                            "Value": ""
+                                        },
+                                        "Custom": {
+                                            "Dialog": "TextArea",
+                                            "Value": ""
+                                        },
+                                        "Display-label": {
+                                            "Dialog": "",
+                                            "Value": "Know more about offers"
+                                        },
+                                        "Exclude": {
+                                            "Dialog": "YesNo",
+                                            "Value": "No"
+                                        },
+                                        "Fa-icon": {
+                                            "Dialog": "",
+                                            "Value": ""
+                                        },
+                                        "ID": {
+                                            "Dialog": "",
+                                            "Value": ""
+                                        },
+                                        "Icon": {
+                                            "Dialog": "",
+                                            "Value": ""
+                                        },
+                                        "Name": {
+                                            "Dialog": "",
+                                            "Value": ""
+                                        },
+                                        "Navigation-url": {
+                                            "Dialog": "",
+                                            "Value": ""
+                                        },
+                                        "Open-dialog-id": {
+                                            "Dialog": "",
+                                            "Value": ""
+                                        },
+                                        "Style": {
+                                            "Dialog": "Style",
+                                            "Value": ""
+                                        },
+                                        "Table-header": {
+                                            "Dialog": "",
+                                            "Value": ""
+                                        }
+                                    },
+                                    "styling": "Bootstrap"
+                                }
+                            ],
+                            "control_id": "Row",
+                            "name": "Row",
+                            "parent_id": "Div",
+                            "parent_index": "2",
+                            "properties": {
+                                "Class": {
+                                    "Dialog": "",
+                                    "Value": "row mt-3"
+                                },
+                                "Color": {
+                                    "Dialog": "Color",
+                                    "Value": ""
+                                },
+                                "Colors": {
+                                    "Dialog": "",
+                                    "Value": ""
+                                },
+                                "Control-name": {
+                                    "Dialog": "",
+                                    "Value": ""
+                                },
+                                "Custom": {
+                                    "Dialog": "TextArea",
+                                    "Value": ""
+                                },
+                                "Exclude": {
+                                    "Dialog": "YesNo",
+                                    "Value": "No"
+                                },
+                                "ID": {
+                                    "Dialog": "",
+                                    "Value": ""
+                                },
+                                "Items-per-page": {
+                                    "Dialog": "",
+                                    "Value": ""
+                                },
+                                "Loop-source": {
+                                    "Dialog": "",
+                                    "Value": ""
+                                },
+                                "Loop-variable": {
+                                    "Dialog": "",
+                                    "Value": ""
+                                },
+                                "Margin": {
+                                    "Dialog": "Margin",
+                                    "Value": ""
+                                },
+                                "Name": {
+                                    "Dialog": "",
+                                    "Value": ""
+                                },
+                                "Pagination": {
+                                    "Dialog": "",
+                                    "Value": "No"
+                                },
+                                "Pagination-class": {
+                                    "Dialog": "",
+                                    "Value": ""
+                                },
+                                "Pagination-style": {
+                                    "Dialog": "",
+                                    "Value": ""
+                                },
+                                "Style": {
+                                    "Dialog": "Style",
+                                    "Value": "padding-left: 100px"
+                                }
+                            },
+                            "styling": "Bootstrap"
+                        },
+                        {
+                            "child": [
+                                {
+                                    "child": [
+                                        {
+                                            "child": [
+                                            ],
+                                            "control_id": "HeaderText",
+                                            "name": "HeaderText",
+                                            "parent_id": "Column",
+                                            "parent_index": "4",
+                                            "properties": {
+                                                "Class": {
+                                                    "Dialog": "",
+                                                    "Value": ""
+                                                },
+                                                "Columns": {
+                                                    "Dialog": "",
+                                                    "Value": "12"
+                                                },
+                                                "Control-name": {
+                                                    "Dialog": "",
+                                                    "Value": ""
+                                                },
+                                                "Custom": {
+                                                    "Dialog": "TextArea",
+                                                    "Value": ""
+                                                },
+                                                "Display-label": {
+                                                    "Dialog": "",
+                                                    "Value": "250+"
+                                                },
+                                                "Exclude": {
+                                                    "Dialog": "YesNo",
+                                                    "Value": "No"
+                                                },
+                                                "Header-size": {
+                                                    "Dialog": "HeaderSize",
+                                                    "Value": "H1"
+                                                },
+                                                "ID": {
+                                                    "Dialog": "",
+                                                    "Value": ""
+                                                },
+                                                "Name": {
+                                                    "Dialog": "",
+                                                    "Value": ""
+                                                },
+                                                "Style": {
+                                                    "Dialog": "Style",
+                                                    "Value": ""
+                                                }
+                                            },
+                                            "styling": "Bootstrap"
+                                        },
+                                        {
+                                            "child": [
+                                            ],
+                                            "control_id": "HeaderText",
+                                            "name": "HeaderText",
+                                            "parent_id": "Column",
+                                            "parent_index": "4",
+                                            "properties": {
+                                                "Class": {
+                                                    "Dialog": "",
+                                                    "Value": ""
+                                                },
+                                                "Columns": {
+                                                    "Dialog": "",
+                                                    "Value": "12"
+                                                },
+                                                "Control-name": {
+                                                    "Dialog": "",
+                                                    "Value": ""
+                                                },
+                                                "Custom": {
+                                                    "Dialog": "TextArea",
+                                                    "Value": ""
+                                                },
+                                                "Display-label": {
+                                                    "Dialog": "",
+                                                    "Value": "Registered cars"
+                                                },
+                                                "Exclude": {
+                                                    "Dialog": "YesNo",
+                                                    "Value": "No"
+                                                },
+                                                "Header-size": {
+                                                    "Dialog": "HeaderSize",
+                                                    "Value": "H3"
+                                                },
+                                                "ID": {
+                                                    "Dialog": "",
+                                                    "Value": ""
+                                                },
+                                                "Name": {
+                                                    "Dialog": "",
+                                                    "Value": ""
+                                                },
+                                                "Style": {
+                                                    "Dialog": "Style",
+                                                    "Value": ""
+                                                }
+                                            },
+                                            "styling": "Bootstrap"
+                                        }
+                                    ],
+                                    "control_id": "Column",
+                                    "name": "Column",
+                                    "parent_id": "Row",
+                                    "parent_index": "3",
+                                    "properties": {
+                                        "Class": {
+                                            "Dialog": "",
+                                            "Value": "box me-3 col-sm-2 col-8"
+                                        },
+                                        "Color": {
+                                            "Dialog": "Color",
+                                            "Value": ""
+                                        },
+                                        "Columns": {
+                                            "Dialog": "",
+                                            "Value": ""
+                                        },
+                                        "Control-name": {
+                                            "Dialog": "",
+                                            "Value": ""
+                                        },
+                                        "Custom": {
+                                            "Dialog": "TextArea",
+                                            "Value": ""
+                                        },
+                                        "Exclude": {
+                                            "Dialog": "YesNo",
+                                            "Value": "No"
+                                        },
+                                        "ID": {
+                                            "Dialog": "",
+                                            "Value": ""
+                                        },
+                                        "Loop-source": {
+                                            "Dialog": "",
+                                            "Value": ""
+                                        },
+                                        "Loop-variable": {
+                                            "Dialog": "",
+                                            "Value": ""
+                                        },
+                                        "Margin": {
+                                            "Dialog": "Margin",
+                                            "Value": ""
+                                        },
+                                        "Name": {
+                                            "Dialog": "",
+                                            "Value": ""
+                                        },
+                                        "Style": {
+                                            "Dialog": "Style",
+                                            "Value": ""
+                                        }
+                                    },
+                                    "styling": "Bootstrap"
+                                },
+                                {
+                                    "child": [
+                                        {
+                                            "child": [
+                                            ],
+                                            "control_id": "HeaderText",
+                                            "name": "HeaderText",
+                                            "parent_id": "Column",
+                                            "parent_index": "4",
+                                            "properties": {
+                                                "Class": {
+                                                    "Dialog": "",
+                                                    "Value": ""
+                                                },
+                                                "Columns": {
+                                                    "Dialog": "",
+                                                    "Value": "12"
+                                                },
+                                                "Control-name": {
+                                                    "Dialog": "",
+                                                    "Value": ""
+                                                },
+                                                "Custom": {
+                                                    "Dialog": "TextArea",
+                                                    "Value": ""
+                                                },
+                                                "Display-label": {
+                                                    "Dialog": "",
+                                                    "Value": "12K+"
+                                                },
+                                                "Exclude": {
+                                                    "Dialog": "YesNo",
+                                                    "Value": "No"
+                                                },
+                                                "Header-size": {
+                                                    "Dialog": "HeaderSize",
+                                                    "Value": "H1"
+                                                },
+                                                "ID": {
+                                                    "Dialog": "",
+                                                    "Value": ""
+                                                },
+                                                "Name": {
+                                                    "Dialog": "",
+                                                    "Value": ""
+                                                },
+                                                "Style": {
+                                                    "Dialog": "Style",
+                                                    "Value": ""
+                                                }
+                                            },
+                                            "styling": "Bootstrap"
+                                        },
+                                        {
+                                            "child": [
+                                            ],
+                                            "control_id": "HeaderText",
+                                            "name": "HeaderText",
+                                            "parent_id": "Column",
+                                            "parent_index": "4",
+                                            "properties": {
+                                                "Class": {
+                                                    "Dialog": "",
+                                                    "Value": ""
+                                                },
+                                                "Columns": {
+                                                    "Dialog": "",
+                                                    "Value": "12"
+                                                },
+                                                "Control-name": {
+                                                    "Dialog": "",
+                                                    "Value": ""
+                                                },
+                                                "Custom": {
+                                                    "Dialog": "TextArea",
+                                                    "Value": ""
+                                                },
+                                                "Display-label": {
+                                                    "Dialog": "",
+                                                    "Value": "Successful travellers"
+                                                },
+                                                "Exclude": {
+                                                    "Dialog": "YesNo",
+                                                    "Value": "No"
+                                                },
+                                                "Header-size": {
+                                                    "Dialog": "HeaderSize",
+                                                    "Value": "H3"
+                                                },
+                                                "ID": {
+                                                    "Dialog": "",
+                                                    "Value": ""
+                                                },
+                                                "Name": {
+                                                    "Dialog": "",
+                                                    "Value": ""
+                                                },
+                                                "Style": {
+                                                    "Dialog": "Style",
+                                                    "Value": ""
+                                                }
+                                            },
+                                            "styling": "Bootstrap"
+                                        }
+                                    ],
+                                    "control_id": "Column",
+                                    "name": "Column",
+                                    "parent_id": "Row",
+                                    "parent_index": "3",
+                                    "properties": {
+                                        "Class": {
+                                            "Dialog": "",
+                                            "Value": "box me-3 col-sm-2 col-8"
+                                        },
+                                        "Color": {
+                                            "Dialog": "Color",
+                                            "Value": ""
+                                        },
+                                        "Columns": {
+                                            "Dialog": "",
+                                            "Value": "2"
+                                        },
+                                        "Control-name": {
+                                            "Dialog": "",
+                                            "Value": ""
+                                        },
+                                        "Custom": {
+                                            "Dialog": "TextArea",
+                                            "Value": ""
+                                        },
+                                        "Exclude": {
+                                            "Dialog": "YesNo",
+                                            "Value": "No"
+                                        },
+                                        "ID": {
+                                            "Dialog": "",
+                                            "Value": ""
+                                        },
+                                        "Loop-source": {
+                                            "Dialog": "",
+                                            "Value": ""
+                                        },
+                                        "Loop-variable": {
+                                            "Dialog": "",
+                                            "Value": ""
+                                        },
+                                        "Margin": {
+                                            "Dialog": "Margin",
+                                            "Value": ""
+                                        },
+                                        "Name": {
+                                            "Dialog": "",
+                                            "Value": ""
+                                        },
+                                        "Style": {
+                                            "Dialog": "Style",
+                                            "Value": ""
+                                        }
+                                    },
+                                    "styling": "Bootstrap"
+                                }
+                            ],
+                            "control_id": "Row",
+                            "name": "Row",
+                            "parent_id": "Div",
+                            "parent_index": "2",
+                            "properties": {
+                                "Class": {
+                                    "Dialog": "",
+                                    "Value": "row summary"
+                                },
+                                "Color": {
+                                    "Dialog": "Color",
+                                    "Value": ""
+                                },
+                                "Colors": {
+                                    "Dialog": "",
+                                    "Value": ""
+                                },
+                                "Control-name": {
+                                    "Dialog": "",
+                                    "Value": ""
+                                },
+                                "Custom": {
+                                    "Dialog": "TextArea",
+                                    "Value": ""
+                                },
+                                "Exclude": {
+                                    "Dialog": "YesNo",
+                                    "Value": "No"
+                                },
+                                "ID": {
+                                    "Dialog": "",
+                                    "Value": ""
+                                },
+                                "Items-per-page": {
+                                    "Dialog": "",
+                                    "Value": ""
+                                },
+                                "Loop-source": {
+                                    "Dialog": "",
+                                    "Value": ""
+                                },
+                                "Loop-variable": {
+                                    "Dialog": "",
+                                    "Value": ""
+                                },
+                                "Margin": {
+                                    "Dialog": "Margin",
+                                    "Value": ""
+                                },
+                                "Name": {
+                                    "Dialog": "",
+                                    "Value": ""
+                                },
+                                "Pagination": {
+                                    "Dialog": "",
+                                    "Value": "No"
+                                },
+                                "Pagination-class": {
+                                    "Dialog": "",
+                                    "Value": ""
+                                },
+                                "Pagination-style": {
+                                    "Dialog": "",
+                                    "Value": ""
+                                },
+                                "Style": {
+                                    "Dialog": "Style",
+                                    "Value": "padding-left: 100px; padding-top: 50px"
+                                }
+                            },
+                            "styling": "Bootstrap"
+                        }
+                    ],
+                    "control_id": "Div",
+                    "name": "Div",
+                    "parent_id": "Div",
+                    "parent_index": "1",
+                    "properties": {
+                        "Class": {
+                            "Dialog": "",
+                            "Value": "banner1"
+                        },
+                        "Click-event": {
+                            "Dialog": "",
+                            "Value": ""
+                        },
+                        "Columns": {
+                            "Dialog": "",
+                            "Value": "12"
+                        },
+                        "Condition": {
+                            "Dialog": "TextArea",
+                            "Value": ""
+                        },
+                        "Control-name": {
+                            "Dialog": "",
+                            "Value": ""
+                        },
+                        "Custom": {
+                            "Dialog": "TextArea",
+                            "Value": ""
+                        },
+                        "Display-label": {
+                            "Dialog": "TextArea",
+                            "Value": ""
+                        },
+                        "Exclude": {
+                            "Dialog": "yesno",
+                            "Value": "No"
+                        },
+                        "ID": {
+                            "Dialog": "",
+                            "Value": ""
+                        },
+                        "Loop-source": {
+                            "Dialog": "",
+                            "Value": ""
+                        },
+                        "Loop-variable": {
+                            "Dialog": "",
+                            "Value": ""
+                        },
+                        "Name": {
+                            "Dialog": "",
+                            "Value": ""
+                        },
+                        "Style": {
+                            "Dialog": "Style",
+                            "Value": ""
+                        }
+                    },
+                    "styling": "Bootstrap"
+                },
+                {
+                    "child": [
+                        {
+                            "child": [
+                                {
+                                    "child": [
+                                        {
+                                            "child": [
+                                            ],
+                                            "control_id": "Column",
+                                            "name": "Column",
+                                            "parent_id": "Row",
+                                            "parent_index": "4",
+                                            "properties": {
+                                                "Class": {
+                                                    "Dialog": "",
+                                                    "Value": ""
+                                                },
+                                                "Color": {
+                                                    "Dialog": "Color",
+                                                    "Value": ""
+                                                },
+                                                "Columns": {
+                                                    "Dialog": "",
+                                                    "Value": "2"
+                                                },
+                                                "Control-name": {
+                                                    "Dialog": "",
+                                                    "Value": ""
+                                                },
+                                                "Custom": {
+                                                    "Dialog": "TextArea",
+                                                    "Value": ""
+                                                },
+                                                "Exclude": {
+                                                    "Dialog": "YesNo",
+                                                    "Value": "No"
+                                                },
+                                                "ID": {
+                                                    "Dialog": "",
+                                                    "Value": ""
+                                                },
+                                                "Loop-source": {
+                                                    "Dialog": "",
+                                                    "Value": ""
+                                                },
+                                                "Loop-variable": {
+                                                    "Dialog": "",
+                                                    "Value": ""
+                                                },
+                                                "Margin": {
+                                                    "Dialog": "Margin",
+                                                    "Value": ""
+                                                },
+                                                "Name": {
+                                                    "Dialog": "",
+                                                    "Value": ""
+                                                },
+                                                "Style": {
+                                                    "Dialog": "Style",
+                                                    "Value": ""
+                                                }
+                                            },
+                                            "styling": "Bootstrap"
+                                        },
+                                        {
+                                            "child": [
+                                                {
+                                                    "child": [
+                                                        {
+                                                            "child": [
+                                                                {
+                                                                    "child": [
+                                                                    ],
+                                                                    "control_id": "HeaderText",
+                                                                    "name": "HeaderText",
+                                                                    "parent_id": "Column",
+                                                                    "parent_index": "7",
+                                                                    "properties": {
+                                                                        "Class": {
+                                                                            "Dialog": "",
+                                                                            "Value": "roboto-c"
+                                                                        },
+                                                                        "Columns": {
+                                                                            "Dialog": "",
+                                                                            "Value": "12"
+                                                                        },
+                                                                        "Control-name": {
+                                                                            "Dialog": "",
+                                                                            "Value": ""
+                                                                        },
+                                                                        "Custom": {
+                                                                            "Dialog": "TextArea",
+                                                                            "Value": ""
+                                                                        },
+                                                                        "Display-label": {
+                                                                            "Dialog": "",
+                                                                            "Value": "Want to book a trip?"
+                                                                        },
+                                                                        "Exclude": {
+                                                                            "Dialog": "YesNo",
+                                                                            "Value": "No"
+                                                                        },
+                                                                        "Header-size": {
+                                                                            "Dialog": "HeaderSize",
+                                                                            "Value": "H2"
+                                                                        },
+                                                                        "ID": {
+                                                                            "Dialog": "",
+                                                                            "Value": ""
+                                                                        },
+                                                                        "Name": {
+                                                                            "Dialog": "",
+                                                                            "Value": ""
+                                                                        },
+                                                                        "Style": {
+                                                                            "Dialog": "Style",
+                                                                            "Value": ""
+                                                                        }
+                                                                    },
+                                                                    "styling": "Bootstrap"
+                                                                }
+                                                            ],
+                                                            "control_id": "Column",
+                                                            "name": "Column",
+                                                            "parent_id": "Row",
+                                                            "parent_index": "6",
+                                                            "properties": {
+                                                                "Class": {
+                                                                    "Dialog": "",
+                                                                    "Value": "center"
+                                                                },
+                                                                "Color": {
+                                                                    "Dialog": "Color",
+                                                                    "Value": ""
+                                                                },
+                                                                "Columns": {
+                                                                    "Dialog": "",
+                                                                    "Value": "12"
+                                                                },
+                                                                "Control-name": {
+                                                                    "Dialog": "",
+                                                                    "Value": ""
+                                                                },
+                                                                "Custom": {
+                                                                    "Dialog": "TextArea",
+                                                                    "Value": ""
+                                                                },
+                                                                "Exclude": {
+                                                                    "Dialog": "YesNo",
+                                                                    "Value": "No"
+                                                                },
+                                                                "ID": {
+                                                                    "Dialog": "",
+                                                                    "Value": ""
+                                                                },
+                                                                "Loop-source": {
+                                                                    "Dialog": "",
+                                                                    "Value": ""
+                                                                },
+                                                                "Loop-variable": {
+                                                                    "Dialog": "",
+                                                                    "Value": ""
+                                                                },
+                                                                "Margin": {
+                                                                    "Dialog": "Margin",
+                                                                    "Value": ""
+                                                                },
+                                                                "Name": {
+                                                                    "Dialog": "",
+                                                                    "Value": ""
+                                                                },
+                                                                "Style": {
+                                                                    "Dialog": "Style",
+                                                                    "Value": ""
+                                                                }
+                                                            },
+                                                            "styling": "Bootstrap"
+                                                        },
+                                                        {
+                                                            "child": [
+                                                            ],
+                                                            "control_id": "TextBox",
+                                                            "name": "TextBox",
+                                                            "parent_id": "Row",
+                                                            "parent_index": "6",
+                                                            "properties": {
+                                                                "Change-event": {
+                                                                    "Dialog": "",
+                                                                    "Value": ""
+                                                                },
+                                                                "Class": {
+                                                                    "Dialog": "",
+                                                                    "Value": ""
+                                                                },
+                                                                "Columns": {
+                                                                    "Dialog": "",
+                                                                    "Value": "3"
+                                                                },
+                                                                "Control-name": {
+                                                                    "Dialog": "",
+                                                                    "Value": ""
+                                                                },
+                                                                "Custom": {
+                                                                    "Dialog": "textarea",
+                                                                    "Value": ""
+                                                                },
+                                                                "Data-field": {
+                                                                    "Dialog": "",
+                                                                    "Value": ""
+                                                                },
+                                                                "Data-source": {
+                                                                    "Dialog": "",
+                                                                    "Value": ""
+                                                                },
+                                                                "DefaultValue": {
+                                                                    "Dialog": "",
+                                                                    "Value": ""
+                                                                },
+                                                                "Display-label": {
+                                                                    "Dialog": "",
+                                                                    "Value": "From location"
+                                                                },
+                                                                "Display-label-columns": {
+                                                                    "Dialog": "",
+                                                                    "Value": ""
+                                                                },
+                                                                "Display-label-position": {
+                                                                    "Dialog": "position",
+                                                                    "Value": "Top"
+                                                                },
+                                                                "Enabled": {
+                                                                    "Dialog": "YesNo",
+                                                                    "Value": "Yes"
+                                                                },
+                                                                "Error-message": {
+                                                                    "Dialog": "",
+                                                                    "Value": ""
+                                                                },
+                                                                "Exclude": {
+                                                                    "Dialog": "YesNo",
+                                                                    "Value": "No"
+                                                                },
+                                                                "Group-class": {
+                                                                    "Dialog": "",
+                                                                    "Value": ""
+                                                                },
+                                                                "Group-id": {
+                                                                    "Dialog": "",
+                                                                    "Value": ""
+                                                                },
+                                                                "Horizontal-label-position": {
+                                                                    "Dialog": "HPos",
+                                                                    "Value": "Left"
+                                                                },
+                                                                "ID": {
+                                                                    "Dialog": "",
+                                                                    "Value": ""
+                                                                },
+                                                                "Inline-validation-info": {
+                                                                    "Dialog": "YesNo",
+                                                                    "Value": "No"
+                                                                },
+                                                                "Key-down-event": {
+                                                                    "Dialog": "",
+                                                                    "Value": ""
+                                                                },
+                                                                "Key-down-event-params": {
+                                                                    "Dialog": "",
+                                                                    "Value": ""
+                                                                },
+                                                                "Label-for": {
+                                                                    "Dialog": "YesNo",
+                                                                    "Value": "Yes"
+                                                                },
+                                                                "Max-length": {
+                                                                    "Dialog": "",
+                                                                    "Value": ""
+                                                                },
+                                                                "Min-length": {
+                                                                    "Dialog": "",
+                                                                    "Value": ""
+                                                                },
+                                                                "Name": {
+                                                                    "Dialog": "",
+                                                                    "Value": ""
+                                                                },
+                                                                "Placeholder": {
+                                                                    "Dialog": "",
+                                                                    "Value": ""
+                                                                },
+                                                                "Readonly": {
+                                                                    "Dialog": "yesno",
+                                                                    "Value": "No"
+                                                                },
+                                                                "Required": {
+                                                                    "Dialog": "YesNo",
+                                                                    "Value": "No"
+                                                                },
+                                                                "Style": {
+                                                                    "Dialog": "Style",
+                                                                    "Value": ""
+                                                                },
+                                                                "Table-header": {
+                                                                    "Dialog": "",
+                                                                    "Value": ""
+                                                                },
+                                                                "Type": {
+                                                                    "Dialog": "textboxtype",
+                                                                    "Value": "text"
+                                                                }
+                                                            },
+                                                            "styling": "Bootstrap"
+                                                        },
+                                                        {
+                                                            "child": [
+                                                            ],
+                                                            "control_id": "TextBox",
+                                                            "name": "TextBox",
+                                                            "parent_id": "Row",
+                                                            "parent_index": "6",
+                                                            "properties": {
+                                                                "Change-event": {
+                                                                    "Dialog": "",
+                                                                    "Value": ""
+                                                                },
+                                                                "Class": {
+                                                                    "Dialog": "",
+                                                                    "Value": ""
+                                                                },
+                                                                "Columns": {
+                                                                    "Dialog": "",
+                                                                    "Value": "3"
+                                                                },
+                                                                "Control-name": {
+                                                                    "Dialog": "",
+                                                                    "Value": ""
+                                                                },
+                                                                "Custom": {
+                                                                    "Dialog": "textarea",
+                                                                    "Value": ""
+                                                                },
+                                                                "Data-field": {
+                                                                    "Dialog": "",
+                                                                    "Value": ""
+                                                                },
+                                                                "Data-source": {
+                                                                    "Dialog": "",
+                                                                    "Value": ""
+                                                                },
+                                                                "DefaultValue": {
+                                                                    "Dialog": "",
+                                                                    "Value": ""
+                                                                },
+                                                                "Display-label": {
+                                                                    "Dialog": "",
+                                                                    "Value": "To location"
+                                                                },
+                                                                "Display-label-columns": {
+                                                                    "Dialog": "",
+                                                                    "Value": ""
+                                                                },
+                                                                "Display-label-position": {
+                                                                    "Dialog": "position",
+                                                                    "Value": "Top"
+                                                                },
+                                                                "Enabled": {
+                                                                    "Dialog": "YesNo",
+                                                                    "Value": "Yes"
+                                                                },
+                                                                "Error-message": {
+                                                                    "Dialog": "",
+                                                                    "Value": ""
+                                                                },
+                                                                "Exclude": {
+                                                                    "Dialog": "YesNo",
+                                                                    "Value": "No"
+                                                                },
+                                                                "Group-class": {
+                                                                    "Dialog": "",
+                                                                    "Value": ""
+                                                                },
+                                                                "Group-id": {
+                                                                    "Dialog": "",
+                                                                    "Value": ""
+                                                                },
+                                                                "Horizontal-label-position": {
+                                                                    "Dialog": "HPos",
+                                                                    "Value": "Left"
+                                                                },
+                                                                "ID": {
+                                                                    "Dialog": "",
+                                                                    "Value": ""
+                                                                },
+                                                                "Inline-validation-info": {
+                                                                    "Dialog": "YesNo",
+                                                                    "Value": "No"
+                                                                },
+                                                                "Key-down-event": {
+                                                                    "Dialog": "",
+                                                                    "Value": ""
+                                                                },
+                                                                "Key-down-event-params": {
+                                                                    "Dialog": "",
+                                                                    "Value": ""
+                                                                },
+                                                                "Label-for": {
+                                                                    "Dialog": "YesNo",
+                                                                    "Value": "Yes"
+                                                                },
+                                                                "Max-length": {
+                                                                    "Dialog": "",
+                                                                    "Value": ""
+                                                                },
+                                                                "Min-length": {
+                                                                    "Dialog": "",
+                                                                    "Value": ""
+                                                                },
+                                                                "Name": {
+                                                                    "Dialog": "",
+                                                                    "Value": ""
+                                                                },
+                                                                "Placeholder": {
+                                                                    "Dialog": "",
+                                                                    "Value": ""
+                                                                },
+                                                                "Readonly": {
+                                                                    "Dialog": "yesno",
+                                                                    "Value": "No"
+                                                                },
+                                                                "Required": {
+                                                                    "Dialog": "YesNo",
+                                                                    "Value": "No"
+                                                                },
+                                                                "Style": {
+                                                                    "Dialog": "Style",
+                                                                    "Value": ""
+                                                                },
+                                                                "Table-header": {
+                                                                    "Dialog": "",
+                                                                    "Value": ""
+                                                                },
+                                                                "Type": {
+                                                                    "Dialog": "textboxtype",
+                                                                    "Value": "text"
+                                                                }
+                                                            },
+                                                            "styling": "Bootstrap"
+                                                        },
+                                                        {
+                                                            "child": [
+                                                            ],
+                                                            "control_id": "TextBox",
+                                                            "name": "TextBox",
+                                                            "parent_id": "Row",
+                                                            "parent_index": "6",
+                                                            "properties": {
+                                                                "Change-event": {
+                                                                    "Dialog": "",
+                                                                    "Value": ""
+                                                                },
+                                                                "Class": {
+                                                                    "Dialog": "",
+                                                                    "Value": ""
+                                                                },
+                                                                "Columns": {
+                                                                    "Dialog": "",
+                                                                    "Value": "3"
+                                                                },
+                                                                "Control-name": {
+                                                                    "Dialog": "",
+                                                                    "Value": ""
+                                                                },
+                                                                "Custom": {
+                                                                    "Dialog": "textarea",
+                                                                    "Value": ""
+                                                                },
+                                                                "Data-field": {
+                                                                    "Dialog": "",
+                                                                    "Value": ""
+                                                                },
+                                                                "Data-source": {
+                                                                    "Dialog": "",
+                                                                    "Value": ""
+                                                                },
+                                                                "DefaultValue": {
+                                                                    "Dialog": "",
+                                                                    "Value": ""
+                                                                },
+                                                                "Display-label": {
+                                                                    "Dialog": "",
+                                                                    "Value": "From date"
+                                                                },
+                                                                "Display-label-columns": {
+                                                                    "Dialog": "",
+                                                                    "Value": ""
+                                                                },
+                                                                "Display-label-position": {
+                                                                    "Dialog": "position",
+                                                                    "Value": "Top"
+                                                                },
+                                                                "Enabled": {
+                                                                    "Dialog": "YesNo",
+                                                                    "Value": "Yes"
+                                                                },
+                                                                "Error-message": {
+                                                                    "Dialog": "",
+                                                                    "Value": ""
+                                                                },
+                                                                "Exclude": {
+                                                                    "Dialog": "YesNo",
+                                                                    "Value": "No"
+                                                                },
+                                                                "Group-class": {
+                                                                    "Dialog": "",
+                                                                    "Value": ""
+                                                                },
+                                                                "Group-id": {
+                                                                    "Dialog": "",
+                                                                    "Value": ""
+                                                                },
+                                                                "Horizontal-label-position": {
+                                                                    "Dialog": "HPos",
+                                                                    "Value": "Left"
+                                                                },
+                                                                "ID": {
+                                                                    "Dialog": "",
+                                                                    "Value": ""
+                                                                },
+                                                                "Inline-validation-info": {
+                                                                    "Dialog": "YesNo",
+                                                                    "Value": "No"
+                                                                },
+                                                                "Key-down-event": {
+                                                                    "Dialog": "",
+                                                                    "Value": ""
+                                                                },
+                                                                "Key-down-event-params": {
+                                                                    "Dialog": "",
+                                                                    "Value": ""
+                                                                },
+                                                                "Label-for": {
+                                                                    "Dialog": "YesNo",
+                                                                    "Value": "Yes"
+                                                                },
+                                                                "Max-length": {
+                                                                    "Dialog": "",
+                                                                    "Value": ""
+                                                                },
+                                                                "Min-length": {
+                                                                    "Dialog": "",
+                                                                    "Value": ""
+                                                                },
+                                                                "Name": {
+                                                                    "Dialog": "",
+                                                                    "Value": ""
+                                                                },
+                                                                "Placeholder": {
+                                                                    "Dialog": "",
+                                                                    "Value": ""
+                                                                },
+                                                                "Readonly": {
+                                                                    "Dialog": "yesno",
+                                                                    "Value": "No"
+                                                                },
+                                                                "Required": {
+                                                                    "Dialog": "YesNo",
+                                                                    "Value": "No"
+                                                                },
+                                                                "Style": {
+                                                                    "Dialog": "Style",
+                                                                    "Value": ""
+                                                                },
+                                                                "Table-header": {
+                                                                    "Dialog": "",
+                                                                    "Value": ""
+                                                                },
+                                                                "Type": {
+                                                                    "Dialog": "textboxtype",
+                                                                    "Value": "date"
+                                                                }
+                                                            },
+                                                            "styling": "Bootstrap"
+                                                        },
+                                                        {
+                                                            "child": [
+                                                            ],
+                                                            "control_id": "TextBox",
+                                                            "name": "TextBox",
+                                                            "parent_id": "Row",
+                                                            "parent_index": "6",
+                                                            "properties": {
+                                                                "Change-event": {
+                                                                    "Dialog": "",
+                                                                    "Value": ""
+                                                                },
+                                                                "Class": {
+                                                                    "Dialog": "",
+                                                                    "Value": ""
+                                                                },
+                                                                "Columns": {
+                                                                    "Dialog": "",
+                                                                    "Value": "3"
+                                                                },
+                                                                "Control-name": {
+                                                                    "Dialog": "",
+                                                                    "Value": ""
+                                                                },
+                                                                "Custom": {
+                                                                    "Dialog": "textarea",
+                                                                    "Value": ""
+                                                                },
+                                                                "Data-field": {
+                                                                    "Dialog": "",
+                                                                    "Value": ""
+                                                                },
+                                                                "Data-source": {
+                                                                    "Dialog": "",
+                                                                    "Value": ""
+                                                                },
+                                                                "DefaultValue": {
+                                                                    "Dialog": "",
+                                                                    "Value": ""
+                                                                },
+                                                                "Display-label": {
+                                                                    "Dialog": "",
+                                                                    "Value": "To date"
+                                                                },
+                                                                "Display-label-columns": {
+                                                                    "Dialog": "",
+                                                                    "Value": ""
+                                                                },
+                                                                "Display-label-position": {
+                                                                    "Dialog": "position",
+                                                                    "Value": "Top"
+                                                                },
+                                                                "Enabled": {
+                                                                    "Dialog": "YesNo",
+                                                                    "Value": "Yes"
+                                                                },
+                                                                "Error-message": {
+                                                                    "Dialog": "",
+                                                                    "Value": ""
+                                                                },
+                                                                "Exclude": {
+                                                                    "Dialog": "YesNo",
+                                                                    "Value": "No"
+                                                                },
+                                                                "Group-class": {
+                                                                    "Dialog": "",
+                                                                    "Value": ""
+                                                                },
+                                                                "Group-id": {
+                                                                    "Dialog": "",
+                                                                    "Value": ""
+                                                                },
+                                                                "Horizontal-label-position": {
+                                                                    "Dialog": "HPos",
+                                                                    "Value": "Left"
+                                                                },
+                                                                "ID": {
+                                                                    "Dialog": "",
+                                                                    "Value": ""
+                                                                },
+                                                                "Inline-validation-info": {
+                                                                    "Dialog": "YesNo",
+                                                                    "Value": "No"
+                                                                },
+                                                                "Key-down-event": {
+                                                                    "Dialog": "",
+                                                                    "Value": ""
+                                                                },
+                                                                "Key-down-event-params": {
+                                                                    "Dialog": "",
+                                                                    "Value": ""
+                                                                },
+                                                                "Label-for": {
+                                                                    "Dialog": "YesNo",
+                                                                    "Value": "Yes"
+                                                                },
+                                                                "Max-length": {
+                                                                    "Dialog": "",
+                                                                    "Value": ""
+                                                                },
+                                                                "Min-length": {
+                                                                    "Dialog": "",
+                                                                    "Value": ""
+                                                                },
+                                                                "Name": {
+                                                                    "Dialog": "",
+                                                                    "Value": ""
+                                                                },
+                                                                "Placeholder": {
+                                                                    "Dialog": "",
+                                                                    "Value": ""
+                                                                },
+                                                                "Readonly": {
+                                                                    "Dialog": "yesno",
+                                                                    "Value": "No"
+                                                                },
+                                                                "Required": {
+                                                                    "Dialog": "YesNo",
+                                                                    "Value": "No"
+                                                                },
+                                                                "Style": {
+                                                                    "Dialog": "Style",
+                                                                    "Value": ""
+                                                                },
+                                                                "Table-header": {
+                                                                    "Dialog": "",
+                                                                    "Value": ""
+                                                                },
+                                                                "Type": {
+                                                                    "Dialog": "textboxtype",
+                                                                    "Value": "date"
+                                                                }
+                                                            },
+                                                            "styling": "Bootstrap"
+                                                        },
+                                                        {
+                                                            "child": [
+                                                                {
+                                                                    "child": [
+                                                                    ],
+                                                                    "control_id": "Button",
+                                                                    "name": "Button",
+                                                                    "parent_id": "Div",
+                                                                    "parent_index": "7",
+                                                                    "properties": {
+                                                                        "Class": {
+                                                                            "Dialog": "",
+                                                                            "Value": "btn btn-sm btn-primary"
+                                                                        },
+                                                                        "Click-event": {
+                                                                            "Dialog": "",
+                                                                            "Value": ""
+                                                                        },
+                                                                        "Close-dialog": {
+                                                                            "Dialog": "",
+                                                                            "Value": ""
+                                                                        },
+                                                                        "Columns": {
+                                                                            "Dialog": "",
+                                                                            "Value": "12"
+                                                                        },
+                                                                        "Condition": {
+                                                                            "Dialog": "TextArea",
+                                                                            "Value": ""
+                                                                        },
+                                                                        "Control-name": {
+                                                                            "Dialog": "",
+                                                                            "Value": ""
+                                                                        },
+                                                                        "Custom": {
+                                                                            "Dialog": "TextArea",
+                                                                            "Value": ""
+                                                                        },
+                                                                        "Display-label": {
+                                                                            "Dialog": "",
+                                                                            "Value": "Book now"
+                                                                        },
+                                                                        "Exclude": {
+                                                                            "Dialog": "YesNo",
+                                                                            "Value": "No"
+                                                                        },
+                                                                        "Fa-icon": {
+                                                                            "Dialog": "",
+                                                                            "Value": ""
+                                                                        },
+                                                                        "ID": {
+                                                                            "Dialog": "",
+                                                                            "Value": ""
+                                                                        },
+                                                                        "Icon": {
+                                                                            "Dialog": "",
+                                                                            "Value": ""
+                                                                        },
+                                                                        "Name": {
+                                                                            "Dialog": "",
+                                                                            "Value": ""
+                                                                        },
+                                                                        "Navigation-url": {
+                                                                            "Dialog": "",
+                                                                            "Value": ""
+                                                                        },
+                                                                        "Open-dialog-id": {
+                                                                            "Dialog": "",
+                                                                            "Value": ""
+                                                                        },
+                                                                        "Style": {
+                                                                            "Dialog": "Style",
+                                                                            "Value": ""
+                                                                        },
+                                                                        "Table-header": {
+                                                                            "Dialog": "",
+                                                                            "Value": ""
+                                                                        }
+                                                                    },
+                                                                    "styling": "Bootstrap"
+                                                                }
+                                                            ],
+                                                            "control_id": "Div",
+                                                            "name": "Div",
+                                                            "parent_id": "Row",
+                                                            "parent_index": "6",
+                                                            "properties": {
+                                                                "Class": {
+                                                                    "Dialog": "",
+                                                                    "Value": "center mt-3"
+                                                                },
+                                                                "Click-event": {
+                                                                    "Dialog": "",
+                                                                    "Value": ""
+                                                                },
+                                                                "Columns": {
+                                                                    "Dialog": "",
+                                                                    "Value": "12"
+                                                                },
+                                                                "Condition": {
+                                                                    "Dialog": "TextArea",
+                                                                    "Value": ""
+                                                                },
+                                                                "Control-name": {
+                                                                    "Dialog": "",
+                                                                    "Value": ""
+                                                                },
+                                                                "Custom": {
+                                                                    "Dialog": "TextArea",
+                                                                    "Value": ""
+                                                                },
+                                                                "Display-label": {
+                                                                    "Dialog": "TextArea",
+                                                                    "Value": ""
+                                                                },
+                                                                "Exclude": {
+                                                                    "Dialog": "yesno",
+                                                                    "Value": "No"
+                                                                },
+                                                                "ID": {
+                                                                    "Dialog": "",
+                                                                    "Value": ""
+                                                                },
+                                                                "Loop-source": {
+                                                                    "Dialog": "",
+                                                                    "Value": ""
+                                                                },
+                                                                "Loop-variable": {
+                                                                    "Dialog": "",
+                                                                    "Value": ""
+                                                                },
+                                                                "Name": {
+                                                                    "Dialog": "",
+                                                                    "Value": ""
+                                                                },
+                                                                "Style": {
+                                                                    "Dialog": "Style",
+                                                                    "Value": ""
+                                                                }
+                                                            },
+                                                            "styling": "Bootstrap"
+                                                        }
+                                                    ],
+                                                    "control_id": "Row",
+                                                    "name": "Row",
+                                                    "parent_id": "Column",
+                                                    "parent_index": "5",
+                                                    "properties": {
+                                                        "Class": {
+                                                            "Dialog": "",
+                                                            "Value": "row  border shadow p-5 white-bg"
+                                                        },
+                                                        "Color": {
+                                                            "Dialog": "Color",
+                                                            "Value": ""
+                                                        },
+                                                        "Colors": {
+                                                            "Dialog": "",
+                                                            "Value": ""
+                                                        },
+                                                        "Control-name": {
+                                                            "Dialog": "",
+                                                            "Value": ""
+                                                        },
+                                                        "Custom": {
+                                                            "Dialog": "TextArea",
+                                                            "Value": ""
+                                                        },
+                                                        "Exclude": {
+                                                            "Dialog": "YesNo",
+                                                            "Value": "No"
+                                                        },
+                                                        "ID": {
+                                                            "Dialog": "",
+                                                            "Value": ""
+                                                        },
+                                                        "Items-per-page": {
+                                                            "Dialog": "",
+                                                            "Value": ""
+                                                        },
+                                                        "Loop-source": {
+                                                            "Dialog": "",
+                                                            "Value": ""
+                                                        },
+                                                        "Loop-variable": {
+                                                            "Dialog": "",
+                                                            "Value": ""
+                                                        },
+                                                        "Margin": {
+                                                            "Dialog": "Margin",
+                                                            "Value": ""
+                                                        },
+                                                        "Name": {
+                                                            "Dialog": "",
+                                                            "Value": ""
+                                                        },
+                                                        "Pagination": {
+                                                            "Dialog": "",
+                                                            "Value": "No"
+                                                        },
+                                                        "Pagination-class": {
+                                                            "Dialog": "",
+                                                            "Value": ""
+                                                        },
+                                                        "Pagination-style": {
+                                                            "Dialog": "",
+                                                            "Value": ""
+                                                        },
+                                                        "Style": {
+                                                            "Dialog": "Style",
+                                                            "Value": ""
+                                                        }
+                                                    },
+                                                    "styling": "Bootstrap"
+                                                }
+                                            ],
+                                            "control_id": "Column",
+                                            "name": "Column",
+                                            "parent_id": "Row",
+                                            "parent_index": "4",
+                                            "properties": {
+                                                "Class": {
+                                                    "Dialog": "",
+                                                    "Value": ""
+                                                },
+                                                "Color": {
+                                                    "Dialog": "Color",
+                                                    "Value": ""
+                                                },
+                                                "Columns": {
+                                                    "Dialog": "",
+                                                    "Value": "8"
+                                                },
+                                                "Control-name": {
+                                                    "Dialog": "",
+                                                    "Value": ""
+                                                },
+                                                "Custom": {
+                                                    "Dialog": "TextArea",
+                                                    "Value": ""
+                                                },
+                                                "Exclude": {
+                                                    "Dialog": "YesNo",
+                                                    "Value": "No"
+                                                },
+                                                "ID": {
+                                                    "Dialog": "",
+                                                    "Value": ""
+                                                },
+                                                "Loop-source": {
+                                                    "Dialog": "",
+                                                    "Value": ""
+                                                },
+                                                "Loop-variable": {
+                                                    "Dialog": "",
+                                                    "Value": ""
+                                                },
+                                                "Margin": {
+                                                    "Dialog": "Margin",
+                                                    "Value": ""
+                                                },
+                                                "Name": {
+                                                    "Dialog": "",
+                                                    "Value": ""
+                                                },
+                                                "Style": {
+                                                    "Dialog": "Style",
+                                                    "Value": ""
+                                                }
+                                            },
+                                            "styling": "Bootstrap"
+                                        },
+                                        {
+                                            "child": [
+                                            ],
+                                            "control_id": "Column",
+                                            "name": "Column",
+                                            "parent_id": "Row",
+                                            "parent_index": "4",
+                                            "properties": {
+                                                "Class": {
+                                                    "Dialog": "",
+                                                    "Value": ""
+                                                },
+                                                "Color": {
+                                                    "Dialog": "Color",
+                                                    "Value": ""
+                                                },
+                                                "Columns": {
+                                                    "Dialog": "",
+                                                    "Value": "2"
+                                                },
+                                                "Control-name": {
+                                                    "Dialog": "",
+                                                    "Value": ""
+                                                },
+                                                "Custom": {
+                                                    "Dialog": "TextArea",
+                                                    "Value": ""
+                                                },
+                                                "Exclude": {
+                                                    "Dialog": "YesNo",
+                                                    "Value": "No"
+                                                },
+                                                "ID": {
+                                                    "Dialog": "",
+                                                    "Value": ""
+                                                },
+                                                "Loop-source": {
+                                                    "Dialog": "",
+                                                    "Value": ""
+                                                },
+                                                "Loop-variable": {
+                                                    "Dialog": "",
+                                                    "Value": ""
+                                                },
+                                                "Margin": {
+                                                    "Dialog": "Margin",
+                                                    "Value": ""
+                                                },
+                                                "Name": {
+                                                    "Dialog": "",
+                                                    "Value": ""
+                                                },
+                                                "Style": {
+                                                    "Dialog": "Style",
+                                                    "Value": ""
+                                                }
+                                            },
+                                            "styling": "Bootstrap"
+                                        }
+                                    ],
+                                    "control_id": "Row",
+                                    "name": "Row",
+                                    "parent_id": "Column",
+                                    "parent_index": "3",
+                                    "properties": {
+                                        "Class": {
+                                            "Dialog": "",
+                                            "Value": "row"
+                                        },
+                                        "Color": {
+                                            "Dialog": "Color",
+                                            "Value": ""
+                                        },
+                                        "Colors": {
+                                            "Dialog": "",
+                                            "Value": ""
+                                        },
+                                        "Control-name": {
+                                            "Dialog": "",
+                                            "Value": ""
+                                        },
+                                        "Custom": {
+                                            "Dialog": "TextArea",
+                                            "Value": ""
+                                        },
+                                        "Exclude": {
+                                            "Dialog": "YesNo",
+                                            "Value": "No"
+                                        },
+                                        "ID": {
+                                            "Dialog": "",
+                                            "Value": ""
+                                        },
+                                        "Items-per-page": {
+                                            "Dialog": "",
+                                            "Value": ""
+                                        },
+                                        "Loop-source": {
+                                            "Dialog": "",
+                                            "Value": ""
+                                        },
+                                        "Loop-variable": {
+                                            "Dialog": "",
+                                            "Value": ""
+                                        },
+                                        "Margin": {
+                                            "Dialog": "Margin",
+                                            "Value": ""
+                                        },
+                                        "Name": {
+                                            "Dialog": "",
+                                            "Value": ""
+                                        },
+                                        "Pagination": {
+                                            "Dialog": "",
+                                            "Value": "No"
+                                        },
+                                        "Pagination-class": {
+                                            "Dialog": "",
+                                            "Value": ""
+                                        },
+                                        "Pagination-style": {
+                                            "Dialog": "",
+                                            "Value": ""
+                                        },
+                                        "Style": {
+                                            "Dialog": "Style",
+                                            "Value": ""
+                                        }
+                                    },
+                                    "styling": "Bootstrap"
+                                }
+                            ],
+                            "control_id": "Column",
+                            "name": "Column",
+                            "parent_id": "Row",
+                            "parent_index": "2",
+                            "properties": {
+                                "Class": {
+                                    "Dialog": "",
+                                    "Value": ""
+                                },
+                                "Color": {
+                                    "Dialog": "Color",
+                                    "Value": ""
+                                },
+                                "Columns": {
+                                    "Dialog": "",
+                                    "Value": "12"
+                                },
+                                "Control-name": {
+                                    "Dialog": "",
+                                    "Value": ""
+                                },
+                                "Custom": {
+                                    "Dialog": "TextArea",
+                                    "Value": ""
+                                },
+                                "Exclude": {
+                                    "Dialog": "YesNo",
+                                    "Value": "No"
+                                },
+                                "ID": {
+                                    "Dialog": "",
+                                    "Value": ""
+                                },
+                                "Loop-source": {
+                                    "Dialog": "",
+                                    "Value": ""
+                                },
+                                "Loop-variable": {
+                                    "Dialog": "",
+                                    "Value": ""
+                                },
+                                "Margin": {
+                                    "Dialog": "Margin",
+                                    "Value": ""
+                                },
+                                "Name": {
+                                    "Dialog": "",
+                                    "Value": ""
+                                },
+                                "Style": {
+                                    "Dialog": "Style",
+                                    "Value": ""
+                                }
+                            },
+                            "styling": "Bootstrap"
+                        }
+                    ],
+                    "control_id": "Row",
+                    "name": "Row",
+                    "parent_id": "Div",
+                    "parent_index": "1",
+                    "properties": {
+                        "Class": {
+                            "Dialog": "",
+                            "Value": "row py-5 gray-bg"
+                        },
+                        "Color": {
+                            "Dialog": "Color",
+                            "Value": ""
+                        },
+                        "Colors": {
+                            "Dialog": "",
+                            "Value": ""
+                        },
+                        "Control-name": {
+                            "Dialog": "",
+                            "Value": ""
+                        },
+                        "Custom": {
+                            "Dialog": "TextArea",
+                            "Value": ""
+                        },
+                        "Exclude": {
+                            "Dialog": "YesNo",
+                            "Value": "No"
+                        },
+                        "ID": {
+                            "Dialog": "",
+                            "Value": ""
+                        },
+                        "Items-per-page": {
+                            "Dialog": "",
+                            "Value": ""
+                        },
+                        "Loop-source": {
+                            "Dialog": "",
+                            "Value": ""
+                        },
+                        "Loop-variable": {
+                            "Dialog": "",
+                            "Value": ""
+                        },
+                        "Margin": {
+                            "Dialog": "Margin",
+                            "Value": ""
+                        },
+                        "Name": {
+                            "Dialog": "",
+                            "Value": ""
+                        },
+                        "Pagination": {
+                            "Dialog": "",
+                            "Value": "No"
+                        },
+                        "Pagination-class": {
+                            "Dialog": "",
+                            "Value": ""
+                        },
+                        "Pagination-style": {
+                            "Dialog": "",
+                            "Value": ""
+                        },
+                        "Style": {
+                            "Dialog": "Style",
+                            "Value": ""
+                        }
+                    },
+                    "styling": "Bootstrap"
+                }
+            ],
+            "control_id": "Div",
+            "name": "Div",
+            "parent_id": "",
+            "parent_index": "0",
+            "properties": {
+                "Class": {
+                    "Dialog": "",
+                    "Value": ""
+                },
+                "Click-event": {
+                    "Dialog": "",
+                    "Value": ""
+                },
+                "Columns": {
+                    "Dialog": "",
+                    "Value": "12"
+                },
+                "Condition": {
+                    "Dialog": "TextArea",
+                    "Value": ""
+                },
+                "Control-name": {
+                    "Dialog": "",
+                    "Value": ""
+                },
+                "Custom": {
+                    "Dialog": "TextArea",
+                    "Value": ""
+                },
+                "Display-label": {
+                    "Dialog": "TextArea",
+                    "Value": ""
+                },
+                "Exclude": {
+                    "Dialog": "yesno",
+                    "Value": "No"
+                },
+                "ID": {
+                    "Dialog": "",
+                    "Value": ""
+                },
+                "Loop-source": {
+                    "Dialog": "",
+                    "Value": ""
+                },
+                "Loop-variable": {
+                    "Dialog": "",
+                    "Value": ""
+                },
+                "Name": {
+                    "Dialog": "",
+                    "Value": ""
+                },
+                "Style": {
+                    "Dialog": "Style",
+                    "Value": ""
+                }
+            },
+            "styling": "Bootstrap"
+        }
+    ]
+}
